@@ -1,0 +1,58 @@
+body {
+  font-family: Helvetica;
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 30px;
+  border-bottom: 10px solid #222222;
+  border-top: 10px solid #222222;
+  padding:25px;
+  background: #F6F6F6;
+
+}
+
+ul {
+	list-style: none;
+	text-align: center;		
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+h3 {
+	font-size: 14pt;
+}
+
+h4 {
+	margin-bottom: 0px;
+}
+
+p {
+	margin-top: 0px;
+	text-indent: 10px;
+}
+
+.about-joe {
+	font-family: Helvetica;
+	font-size: 12pt;
+	float: right;
+	width: 40%;
+	padding: 10px;
+	text-align: left;
+	margin: 25px;
+}
+.pic {
+	float: left;
+	width: 30%;
+	padding: 20px;
+	margin: 25px;
+	padding-left: 20px;
+}
+.footer {
+	clear: both;
+	text-align: center;
+}
